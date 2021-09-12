@@ -1,3 +1,4 @@
+<img align="center" src="https://raw.githubusercontent.com/U220053/U220053/main/Promblem Solver.png"/></a>
 <h1 align="center">Hi 👋, I'm Nitu Kumari</h1>
 <h3 align="center">A passionate coding enthusiast and developer</h3>
 
