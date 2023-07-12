@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nitu Kumari</h1>
 <h3 align="center">A passionate coding enthusiast and developer</h3>
 
-- 🌱 I’m currently learning **web development,react**
+- 🌱 I’m currently learning **full stack web development,blockchain development**
 
 - 📫 How to reach me **knitu7392@gmail.com**
 
